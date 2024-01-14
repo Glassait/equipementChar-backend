@@ -11,7 +11,7 @@
 
     <groupId>com.glassait</groupId>
     <artifactId>equipment_tanks</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <name>equipment_tanks</name>
     <description>Backend for equipmentTanks web site</description>
 
